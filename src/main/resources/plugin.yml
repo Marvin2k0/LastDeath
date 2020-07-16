@@ -1,0 +1,6 @@
+name: LastDeath
+version: ${project.version}
+main: de.marvinleiers.lastdeath.LastDeath
+api-version: 1.16
+authors: [Marvin2k0]
+website: www.marvinleiers.de
